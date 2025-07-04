@@ -1,4 +1,4 @@
-#Inkwell - A Modern Blogging Platform
+**Inkwell - A Modern Blogging Platform**
 
 **Inkwell** is a feature-rich blogging website where users can:
 - Create an account and manage their profile
